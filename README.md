@@ -8,8 +8,8 @@
 * ✉️️  You can contact me at [ridwandada500@gmail.com](mailto:ridwandada500@gmail.com)
 * 🚀  I'm currently working on Alx projects
 * 🧠  I'm currently learning how to Develop Sofware and and using Data properly
-* 🤝  I'm open to internship in Data Science Field and sofware Developing
-* ⚡  I'm a Melophile and love reading self-Development book
+* 🤝  I'm open to internship in Data Science and software Developing field
+* ⚡  I'm a Melophile and love reading self-Development books
 
 <a href="https://twitter.com/Joseph_dada01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Joseph_dada01?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
